@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+test site
       image:
         filename: welcome.jpg
       text: |
